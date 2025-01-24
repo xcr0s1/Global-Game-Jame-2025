@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/A463/Documents/Unreal Projects/GameJamPt2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/A463/Documents/Unreal Projects/GameJamPt2/Content/ThirdPerson/Blueprints/E_WBP.uasset",
+				"C:/Users/A463/Documents/Unreal Projects/GameJamPt2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/A463/Documents/Unreal Projects/GameJamPt2/Content/Maps/FirstLevel.umap",
+				"C:/Users/A463/Documents/Unreal Projects/GameJamPt2/Content/texture/e-button-icon.uasset",
+				"C:/Users/A463/Documents/Unreal Projects/GameJamPt2/Content/texture/e-button-icon__2_.uasset",
+				"C:/Users/A463/Documents/Unreal Projects/GameJamPt2/Content/ThirdPerson/LavaLamp/LavaLampBP.uasset",
+				"C:/Users/A463/Documents/Unreal Projects/GameJamPt2/Content/ThirdPerson/LavaLamp/TriggerBox_Blueprint.uasset",
+				"C:/Users/A463/Documents/Unreal Projects/GameJamPt2/Content/Environment/ScheletroStanza.uasset"
+			]
+		}
+	]
+}
